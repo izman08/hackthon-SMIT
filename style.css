@@ -1,0 +1,137 @@
+.navbar {
+    background-color: rgb(216, 245, 245);
+    display: flex;
+    border: 3px solid gray;
+    border-radius: 35%;
+    width: 80%;
+    height: 10vh;
+    
+
+
+}
+
+
+.one {
+    padding-left: 5%;
+    padding-right: 5%;
+padding-top: 2%;
+}
+
+.two {
+    display: flex;
+    width: 50%;
+    border-radius: 40%;
+ padding: 2%;
+
+
+
+
+}
+
+.two1 {
+    padding: 2%;
+
+    :hover{
+        text-decoration: underline blue;
+    }
+}
+
+.two2 {
+    padding: 2%;
+    :hover{
+       text-decoration: underline blue;
+    }
+}
+
+.two3 {
+    padding: 2%;
+    :hover{
+          text-decoration: underline blue;
+    }
+}
+
+.two4 {
+    padding: 2%;
+    :hover{
+          text-decoration: underline blue;
+    }
+}
+
+.two5 {
+    padding: 2%;
+    :hover{
+          text-decoration: underline  blue;
+    }
+}
+.two6{
+    padding:2%;
+    :hover{
+          text-decoration: underline blue;
+    }
+}
+.btn1{
+    border: 1px solid gray;
+    border-radius: 40%;
+    height: 6vh;
+    color: black;
+    text-transform: capitalize;
+    padding: 1%;
+    :hover{
+        border: 2px solid blue ;
+    
+        border-radius: 2%;
+     }
+     margin-top: 2%;
+
+}
+.three{
+    margin-top: 2%;
+padding: 1%;
+    margin-right: 2%; 
+    height: 3vh;
+    border: 1px solid gray;
+    border-radius: 40%;
+    :hover{
+        border: 2px solid blue ;
+    
+        border-radius: 2%;
+     }
+
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+/* THIS IS SEC II */
+.page1{
+    display:flex;
+    background-color: rgb(89, 165, 165);
+    
+}
+.box1{
+    margin-left: 5%;
+} 
+.box2{
+    margin-left: 15%;
+}
+.btn2{
+    height: 3vh;
+    border: white;
+    border-radius: 10px;
+    color:black;
+    background-color: aliceblue;
+}
+.btn3{
+    height: 3vh;
+    border: white;
+    border-radius: 10px;
+    color:rgb(248, 248, 248);
+    background-color: black;
+}
+.para{
+    color:black;
+    text-align: center;
+    
+}
